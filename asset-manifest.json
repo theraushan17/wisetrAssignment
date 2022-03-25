@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wisetrAssignment/static/css/main.56e6221f.css",
+    "main.js": "/wisetrAssignment/static/js/main.eb82fcd6.js",
+    "static/js/787.d3befce1.chunk.js": "/wisetrAssignment/static/js/787.d3befce1.chunk.js",
+    "index.html": "/wisetrAssignment/index.html",
+    "main.56e6221f.css.map": "/wisetrAssignment/static/css/main.56e6221f.css.map",
+    "main.eb82fcd6.js.map": "/wisetrAssignment/static/js/main.eb82fcd6.js.map",
+    "787.d3befce1.chunk.js.map": "/wisetrAssignment/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.eb82fcd6.js"
+  ]
+}
